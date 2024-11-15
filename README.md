@@ -1,6 +1,5 @@
-# Foobar
-
-This is a dashboard template for symfony apps.
+# OFA
+OFA (One For All) is a dashboard template for symfony apps.
 
 ## Installation
 
